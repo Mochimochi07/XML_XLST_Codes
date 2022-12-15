@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pokemon_Showdown_Party_Pokemon>
+<pokemon>
+  
+  <Level>100</Level>
+  <Happiness>255</Happiness>
+  <Tera Type>Dark </Tera Type>
+  <Name>Gengar</Name>
+  <Item>Gengarite</Item>
+  <Abilities>
+    <Ability>CursedBody</Ability>
+  </Abilities>
+  <Moves_list>
+    <Moves>Shadowball</Moves>
+    <Moves>Sludge wave</Moves>
+    <Moves>Dazzling Gleam</Moves>
+    <Moves>Thunderbolt</Moves>
+  </Moves_list>
+  <Stats>
+  <BaseStats>
+    <Hp>60</Hp>
+    <Atk>65</Atk>
+    <Def>60</Def>
+    <Spa>130</Spa>
+    <Spd>75</Spd>
+    <Spe>110</Spe>
+   </BaseStats>
+    
+    <Stats_with_0_EV_and_Neutral_Nature>
+   <MinStats>
+    <Hp>230</Hp>
+     <Atk>135</Atk>
+     <Def>125</Def>
+     <Spa>265</Spa>
+     <Spd>155</Spd>
+     <Spe>225</Spe>
+  </MinStats>
+ 
+   <MaxStats>
+     <Hp>261</Hp>
+     <Atk>166</Atk>
+     <Def>156</Def>
+     <Spa>296</Spa>
+     <Spd>186</Spd>
+     <Spe>256</Spe>
+   </MaxStats>
+   </Stats_with_0_EV_and_Neutral_Nature>
+      
+    
+    
+   <Stats_with_252EVs_with_current_nature_and_recommendation>
+   <MinStats>
+    <Hp>293</Hp>
+     <Atk>178</Atk>
+     <Def>188</Def>
+     <Spa>328</Spa>
+     <Spd>218</Spd>
+     <Spe>316</Spe>
+  </MinStats>
+ 
+   <MaxStats>
+     <Hp>324</Hp>
+     <Atk>206</Atk>
+     <Def>219</Def>
+     <Spa>359</Spa>
+     <Spd>249</Spd>
+     <Spe>350</Spe>
+   </MaxStats>
+   
+   <Stats_with_252EVs_with_current_nature_and_recommendation>
+       
+      
+   <Best Natures>
+     <Best Nature>Timid(+Spd, -Atk)
+     <Best Nature>Modest(+SpAtk, -Atk)
+       
+  
+ </Stats>
+ </pokemon>
+  
+</Pokemon_Showdown_Party_Pokemon>
+  
