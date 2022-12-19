@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<math>
+  <operations>
+    <addition>
+      <definition>Addition is the mathematical operation of combining numbers or quantities to form a sum.</definition>
+      <example>2 + 3 = 5</example>
+    </addition>
+    <subtraction>
+      <definition>Subtraction is the mathematical operation of taking one number or quantity away from another.</definition>
+      <example>5 - 3 = 2</example>
+    </subtraction>
+    <multiplication>
+      <definition>Multiplication is the mathematical operation of repeating or scaling a number or quantity by another.</definition>
+      <example>2 * 3 = 6</example>
+    </multiplication>
+    <division>
+      <definition>Division is the mathematical operation of dividing one number or quantity by another to find the quotient.</definition>
+      <example>6 / 3 = 2</example>
+    </division>
+  </operations>
+</math>
