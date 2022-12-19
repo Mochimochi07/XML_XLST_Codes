@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var parser, xmlDoc;
+var text = "<book>" +
+"<title>Acts of War</title>" +
+"<author>Tom Clancy</author>" +
+"</book>";
+
+parser = new DOMParser();
+xmlDoc = parser.parseFromString(text,"text/xml");
+
+document.getElementById("demo").innerHTML =
+xmlDoc.getElementsByTagName("author")[0].childNodes[0].nodeValue;
+</script>
+
+</body>
+</html>
