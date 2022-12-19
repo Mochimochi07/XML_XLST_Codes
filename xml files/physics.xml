@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<physics>
+  <topic name="Classical Mechanics">
+    <definition>Classical mechanics is the study of the motion of bodies under the action of forces, using the laws of Newton as its foundation.</definition>
+    <principle name="Newton's First Law">
+      <definition>An object at rest tends to stay at rest, and an object in motion tends to stay in motion with a constant velocity, unless acted upon by a force.</definition>
+    </principle>
+    <principle name="Newton's Second Law">
+      <definition>The rate of change of momentum of a body is directly proportional to the force applied, and occurs in the direction in which the force is applied.</definition>
+    </principle>
+    <principle name="Newton's Third Law">
+      <definition>For every action, there is an equal and opposite reaction.</definition>
+    </principle>
+  </topic>
+  <topic name="Thermodynamics">
+    <definition>Thermodynamics is the study of the relationships between heat, work, and energy, and the laws that govern the conversion of energy from one form to another.</definition>
+    <principle name="First Law of Thermodynamics">
+      <definition>Energy cannot be created or destroyed, only converted from one form to another.</definition>
+    </principle>
+    <principle name="Second Law of Thermodynamics">
+      <definition>Heat cannot naturally flow from a colder body to a hotter body.</definition>
+    </principle>
+    <principle name="Third Law of Thermodynamics">
+      <definition>As the temperature of a system approaches absolute zero, the entropy of the system approaches a minimum value.</definition>
+    </principle>
+  </topic>
+</physics>
