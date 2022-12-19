@@ -71,10 +71,10 @@
    <Stats_with_252EVs_with_current_nature_and_recommendation>
        
       
-   <Best Natures>
+   <Best_Natures>
      <Best Nature>Timid(+Spd, -Atk)
      <Best Nature>Modest(+SpAtk, -Atk)
-       
+    </Best_Natures>
   
  </Stats>
  </pokemon>
